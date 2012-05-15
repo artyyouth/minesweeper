@@ -1,6 +1,6 @@
 A simple HTML based Minesweeper game
 -----------------------------------------------------------------------------
-** Playable demo: http://vincentchen.me/works/minesweeper/index.html **
+**Playable demo: http://vincentchen.me/works/minesweeper/index.html**
 
 * Use CSS/HTML to create the classic Windows Minesweeper game UI.
 * Use JavaScript to implement game logic.
